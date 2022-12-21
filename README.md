@@ -6,15 +6,15 @@ During this project, we helped the company SpaceForward and Robin, its Data Anal
 
 ## Analysis
 
-For the first part of this analysis, we extracted information such as the title and the preview text of all of them of one of the websites, so we can have a better understanding of the most recent news about this planet. The resources that we used in this part along with the web scraping tool were splinter, bs4 or beautiful soup, and webdriver_manager.chrome.
++ For the first part of this analysis, we extracted information such as the title and the preview text of all of them of one of the websites, so we can have a better understanding of the most recent news about this planet. The resources that we used in this part along with the web scraping tool were splinter, bs4 or beautiful soup, and webdriver_manager.chrome.
 
-Here is the code we used to extract the titles and previews
++ Here is the code we used to extract the titles and previews
 ![image](https://user-images.githubusercontent.com/113261292/208784332-9c02cf50-ded8-4748-9228-6eddaeb6ef43.png)
 
-And how we managed to show all that information as an output
++ And how we managed to show all that information as an output
 ![image](https://user-images.githubusercontent.com/113261292/208784490-343a0d47-c9a7-4157-9ce3-2f469786348d.png)
 
-For the second part of this analysis, we extracted a table with its information so we can study and analyze it in a simpler way. We also used some for loops so we can get specific data such as min and max temperature, pressure, and the total days a martial year has. To achieve this goal, we had to add to our tools matplotlib and pandas to show a better output graphically and legibly. 
++ For the second part of this analysis, we extracted a table with its information so we can study and analyze it in a simpler way. We also used some for loops so we can get specific data such as min and max temperature, pressure, and the total days a martial year has. To achieve this goal, we had to add to our tools matplotlib and pandas to show a better output graphically and legibly. 
 
 ![image](https://user-images.githubusercontent.com/113261292/208785230-bb1ce2ff-3d9e-4e75-adf4-9cb7b91a3646.png)
 ![image](https://user-images.githubusercontent.com/113261292/208785294-70397902-1b3a-4be3-aecb-92a03cf2b133.png)
